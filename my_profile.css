@@ -97,7 +97,7 @@
         }
 
         .cta-button {
-            background: #ff6b6b;
+            background: linear-gradient(135deg, #ff4966 0%, #9e2997 100%);
             color: white;
             padding: 15px 30px;
             border: none;
@@ -170,6 +170,7 @@
             flex: 1;
             font-size: 1.1rem;
             line-height: 1.8;
+            color: #f5edf0;
         }
 
         .about-text::after {
